@@ -1,0 +1,1 @@
+A Personal Portfolio Page showcasing past projects, about me and blogs
